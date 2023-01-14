@@ -13,3 +13,9 @@ The data for this project stems from the following national parks:
 - Great Smoky Mountains National Park
 - Bryce National Park
 - Yosemite National Park
+
+# Project 4: Machine Learning Applications in Dating Apps
+
+In this project, I applied machine learning algorithms to investigate and predict the correlations of different attributes of users from a dating app named OKCupid.
+
+The data for the project was given in profiles.csv, containing nearly 60,000 users of OKCupid.
